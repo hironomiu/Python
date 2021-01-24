@@ -1,6 +1,6 @@
 # slackbot
 
-[slackbot](https://github.com/lins05/slackbot)
+[slackbot](https://github.com/lins05/slackbot)を使ったチャット Bot
 
 ## setUp
 
