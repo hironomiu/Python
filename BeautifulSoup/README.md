@@ -1,4 +1,5 @@
-#　 BeautifulSoup
+# BeautifulSoup
+
 BeautifulSoup を利用したサンプルコード
 
 ## install

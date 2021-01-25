@@ -2,6 +2,10 @@
 
 Python でのサンプルコード置き場
 
+## BeautifulSoup
+
+[BeautifulSoup]./BeautifulSoup
+
 ## selenium
 
 [selenium](./selenium)
