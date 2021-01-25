@@ -4,7 +4,7 @@ Python でのサンプルコード置き場
 
 ## BeautifulSoup
 
-[BeautifulSoup]./BeautifulSoup
+[BeautifulSoup](./BeautifulSoup)
 
 ## selenium
 
