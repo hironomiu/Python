@@ -17,3 +17,7 @@ Python でのサンプルコード置き場
 ## twitterbot
 
 [twitterbot](./twitterbot)
+
+## pyttsx3
+
+[pyttsx3](./pyttsx3)
